@@ -4,3 +4,6 @@ h1 {
 header {
     color: aquamarine;
 }
+p {
+    caret-color: auto;
+}
